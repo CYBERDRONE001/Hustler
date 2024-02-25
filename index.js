@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Add event listeners to redirect users when buttons are clicked
     cryptoButton.addEventListener('click', function() {
-        window.location.href = 'https://your-crypto-airdrop-website.com';
+        window.location.href = 'Crypto Airdrop.html';
     });
 
     paidAdvertButton.addEventListener('click', function() {
